@@ -1,0 +1,23 @@
+#header {
+  color:#545FBE ;
+  text-align: center;
+  background: #E8E9F0;
+  padding-bottom : 20px;
+  padding-top: 10px;
+  margin-bottom: 80px;
+}
+
+.player-info{
+  border : 5px solid black;
+  padding-top:5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  width: 400px;
+  height: 200px;
+  overflow: scroll;
+
+}
+#header ~ div{
+  margin-top: 80px;
+}

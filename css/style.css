@@ -1,0 +1,35 @@
+#header ~ div {
+margin-top: 80px;
+}
+
+.player-info{
+  border : 5px solid black;
+  padding: 15px;
+  height: 200px;
+  overflow: scroll;
+
+}
+#header ~ div{
+  margin-top: 80px;
+}
+img {
+  width: auto;
+  height: 200px;
+}
+a:link {
+  color: red;
+}
+a:visited{
+  color: green;
+}
+a:hover {
+  color: black;
+}
+
+h2,h3 {
+  font-family: Arial, sans-serif;
+}
+
+h3 {
+  font-size: 24px;
+}
